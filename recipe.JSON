@@ -1,12 +1,29 @@
 [
   {
-    "name": "Moroccan Tagine",
-    "video_url": "https://www.youtube.com/shorts/odFDp1t5Js4"
-    "image": "https://img.youtube.com/vi/DzF2WH-pd94/hqdefault.jpg"
+    "id": "1",
+    "name": "Tajine",
+    "image": "https://img.youtube.com/vi/abc123xyz/hqdefault.jpg",
+    "video_url": "https://www.youtube.com/shorts/odFDp1t5Js4",
+    "ingredients": [
+      "Chicken",
+      "Onions",
+      "Saffron",
+      "Preserved Lemons"
+    ],
+    "description": "A traditional Moroccan stew cooked in a clay pot, seasoned with spices and lemons.",
+    "category": "Main Dish"
   },
   {
+    "id": "2",
     "name": "Couscous",
-    "video_url": "https://youtu.be/VVQv3sAdaP8"
-    "image": "https://img.youtube.com/vi/VVQv3sAdaP8/hqdefault.jpg"
+    "image": "https://img.youtube.com/vi/def456uvw/hqdefault.jpg",
+    "video_url": "https://youtube.com/shorts/avc63bNkmqs",
+    "ingredients": [
+      "Semolina",
+      "Vegetables",
+      "Spices"
+    ],
+    "description": "The national dish of Morocco, made from steamed semolina and served with vegetables or meat.",
+    "category": "Main Dish"
   }
 ]
