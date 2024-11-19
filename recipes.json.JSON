@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Moroccan Tagine",
+    "image": "https://example.com/tagine.jpg",
+    "video_url": "https://youtu.be/DUfKrVSuMTs"
+  },
+  {
+    "name": "Couscous",
+    "image": "https://example.com/couscous.jpg",
+    "video_url": "https://youtu.be/VVQv3sAdaP8"
+  }
+]
