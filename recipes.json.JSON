@@ -1,10 +1,12 @@
 [
   {
     "name": "Moroccan Tagine",
-    "video_url": "https://www.youtube.com/watch?v=VVQv3sAdaP8&ab_channel=hamzamaroufi"
+    "video_url": "https://youtu.be/DzF2WH-pd94"
+    "image": "https://img.youtube.com/vi/DzF2WH-pd94/hqdefault.jpg"
   },
   {
     "name": "Couscous",
-    "video_url": "https://www.youtube.com/watch?v=DzF2WH-pd94&ab_channel=hamzamaroufi"
+    "video_url": "https://youtu.be/VVQv3sAdaP8"
+    "image": "https://img.youtube.com/vi/VVQv3sAdaP8/hqdefault.jpg"
   }
 ]
