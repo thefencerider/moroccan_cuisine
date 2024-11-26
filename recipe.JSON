@@ -2,17 +2,38 @@
   {
     "id": "1",
     "name": "Tajine",
-    "video_url": "https://youtube.com/shorts/odFDp1t5Js4",
-    "ingredients": ["Chicken", "Onions", "Saffron", "Preserved Lemons"],
-    "description": "A traditional Moroccan stew cooked in a clay pot, seasoned with spices and lemons.",
-    "category": "Main Dish"
+    "video_url": "https://youtube.com/shorts/avc63bNkmqs",
+    "image": "https://img.youtube.com/vi/avc63bNkmqs/hqdefault.jpg",
+    "ingredients": [
+      "Chicken",
+      "Onions",
+      "Saffron",
+      "Preserved Lemons"
+    ],
+    "description": "A traditional Moroccan stew cooked in a clay pot, seasoned with spices and lemons."
   },
   {
     "id": "2",
     "name": "Couscous",
     "video_url": "https://youtube.com/shorts/W1ppCFAVJd8",
-    "ingredients": ["Semolina", "Vegetables", "Spices"],
-    "description": "The national dish of Morocco, made from steamed semolina and served with vegetables or meat.",
-    "category": "Main Dish"
+    "image": "https://img.youtube.com/vi/W1ppCFAVJd8/hqdefault.jpg",
+    "ingredients": [
+      "Semolina",
+      "Vegetables",
+      "Spices"
+    ],
+    "description": "The national dish of Morocco, made from steamed semolina and served with vegetables or meat."
+  },
+  {
+    "id": "3",
+    "name": "Moroccan Mint Tea",
+    "video_url": "https://youtu.be/ghi789rst",
+    "image": "https://img.youtube.com/vi/ghi789rst/hqdefault.jpg",
+    "ingredients": [
+      "Green Tea",
+      "Mint Leaves",
+      "Sugar"
+    ],
+    "description": "A refreshing and aromatic tea, a staple of Moroccan hospitality."
   }
 ]
