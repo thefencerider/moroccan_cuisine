@@ -8,41 +8,54 @@
       "Chicken",
       "Onions",
       "Saffron",
-      "Preserved Lemons"
+      "Preserved Lemons",
+      "Olive Oil"
     ],
     "description": "A traditional Moroccan stew cooked in a clay pot, seasoned with spices and lemons."
   },
   {
     "id": "2",
     "name": "Couscous",
-    "video_url": "https://youtube.com/shorts/W1ppCFAVJd8",
-    "image": "https://img.youtube.com/vi/W1ppCFAVJd8/hqdefault.jpg",
+    "video_url": "https://youtube.com/shorts/avc63bNkmqs",
+    "image": "https://img.youtube.com/vi/avc63bNkmqs/hqdefault.jpg",
     "ingredients": [
       "Semolina",
-      "Vegetables",
-      "Spices"
+      "Vegetables (carrots, zucchini, pumpkin)",
+      "Spices",
+      "Olive Oil",
+      "Chickpeas"
     ],
-    "description": "The national dish of Morocco, made from steamed semolina and served with vegetables or meat."
+    "description": "The national dish of Morocco, made from steamed semolina served with vegetables or meat."
   },
   {
     "id": "3",
     "name": "Moroccan Mint Tea",
-    "video_url": "https://youtube.com/shorts/avc63bNkmqs",
-    "image": "https://img.youtube.com/vi/avc63bNkmqs/hqdefault.jpg",
+    "video_url": "https://youtu.be/ghi789rst",
+    "image": "https://img.youtube.com/vi/ghi789rst/hqdefault.jpg",
     "ingredients": [
       "Green Tea",
-      "Mint Leaves",
-      "Sugar"
+      "Fresh Mint Leaves",
+      "Sugar",
+      "Boiling Water"
     ],
     "description": "A refreshing and aromatic tea, a staple of Moroccan hospitality."
-  }
-[
+  },
   {
-    "id": "1",
-    "name": "Tajine",
-    "video_url": "https://youtube.com/shorts/avc63bNkmqs",
-    "image": "https://img.youtube.com/vi/avc63bNkmqs/hqdefault.jpg",
-    "ingredients": ["Chicken", "Onions", "Saffron", "Preserved Lemons"],
-    "description": "A traditional Moroccan stew cooked in a clay pot."
+    "id": "4",
+    "name": "Harira Soup",
+    "video_url": "https://youtu.be/jkl987mno",
+    "image": "https://img.youtube.com/vi/jkl987mno/hqdefault.jpg",
+    "ingredients": [
+      "Tomatoes",
+      "Lentils",
+      "Chickpeas",
+      "Celery",
+      "Onions",
+      "Flour",
+      "Spices (ginger, turmeric, cinnamon)"
+    ],
+    "description": "A hearty Moroccan soup made with tomatoes, lentils, and chickpeas, often served during Ramadan."
   }
 ]
+
+
